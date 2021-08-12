@@ -1,0 +1,25 @@
+{
+  "name": "expb360",
+  "version": "1.0.0",
+  "description": "This is support bot for EXPB360 - Xbox 360 Emulator!!!!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manh Gamer VN (Creator) and Wolf(Helper)",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/uws": "^10.149.0",
+    "axios": "^0.21.1",
+    "discord.js": "^13.0.1",
+    "findit": "^2.0.0",
+    "node-fetch": "^2.6.1",
+    "opusscript": "0.0.7",
+    "soundcloud-audio": "^1.4.0",
+    "uri-js": "^4.2.2",
+    "youtube-api": "^3.0.1",
+    "youtube-playlist": "^1.0.4",
+    "yt-search": "^1.1.2",
+    "ytdl-core": "^2.1.7"
+  }
+}
